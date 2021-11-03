@@ -1,0 +1,3 @@
+[submodule "Stm32-UART-DMA"]
+	path = Stm32-UART-DMA
+	url = https://github.com/Gavin-Yi/Stm32-UART-DMA.git

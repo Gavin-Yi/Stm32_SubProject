@@ -1,3 +1,6 @@
 [submodule "Stm32-UART-DMA"]
 	path = Stm32-UART-DMA
 	url = https://github.com/Gavin-Yi/Stm32-UART-DMA.git
+[submodule "Stm32-FATFS"]
+	path = Stm32-FATFS
+	url = https://github.com/Gavin-Yi/Stm32-FATFS.git
